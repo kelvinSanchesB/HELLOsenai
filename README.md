@@ -1,8 +1,6 @@
 # HELLOsenai
 
-oi sou kelvin
-
-alguma coisa 
+qualquer coisa 
 <?php	 
 	echo "OI"
 ?>
